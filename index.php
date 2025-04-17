@@ -1,6 +1,4 @@
 <?php
-  echo "Olá, mundo!";
-echo "Carla";
 
 echo "Digite o primeiro número: ";
 $a = trim(fgets(STDIN));
